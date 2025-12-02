@@ -1,0 +1,37 @@
+.container header {
+    background-color: #D0BA26;
+}
+.container header nav {
+    background-color: #D0BA26;
+}
+.container #hero {
+    background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(60,53,223,1.00) 0%,rgba(255,255,255,1.00) 1.55%,rgba(74,55,211,1.00) 100%,rgba(163,153,232,1.00) 100%,rgba(71,51,210,1.00) 100%,rgba(39,12,229,1.00) 100%,rgba(241,29,29,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(60,53,223,1.00) 0%,rgba(255,255,255,1.00) 1.55%,rgba(74,55,211,1.00) 100%,rgba(163,153,232,1.00) 100%,rgba(71,51,210,1.00) 100%,rgba(39,12,229,1.00) 100%,rgba(241,29,29,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(60,53,223,1.00) 0%,rgba(255,255,255,1.00) 1.55%,rgba(74,55,211,1.00) 100%,rgba(163,153,232,1.00) 100%,rgba(71,51,210,1.00) 100%,rgba(39,12,229,1.00) 100%,rgba(241,29,29,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(60,53,223,1.00) 0%,rgba(255,255,255,1.00) 1.55%,rgba(74,55,211,1.00) 100%,rgba(163,153,232,1.00) 100%,rgba(71,51,210,1.00) 100%,rgba(39,12,229,1.00) 100%,rgba(241,29,29,1.00) 100%);
+}
+footer .footer_column h3 {
+    background-color: #EBE6E6;
+    color: #F4383B;
+}
+.container .banner {
+    background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+.container #contact .hero_header {
+    background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+.container #contact .hero_header {
+    background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+.container #contact {
+    background-image: url(images/%E5%B0%81%E9%9D%A22.jpg);
+}
+.container #contact .hero_header {
+    background-image: url(url);
+}
+.container .copyright {
+    background-color: #E0DF15;
+}
